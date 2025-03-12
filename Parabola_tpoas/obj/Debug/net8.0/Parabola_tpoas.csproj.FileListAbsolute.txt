@@ -1,0 +1,14 @@
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\bin\Debug\net8.0\Parabola_tpoas.exe
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\bin\Debug\net8.0\Parabola_tpoas.deps.json
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\bin\Debug\net8.0\Parabola_tpoas.runtimeconfig.json
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\bin\Debug\net8.0\Parabola_tpoas.dll
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\bin\Debug\net8.0\Parabola_tpoas.pdb
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\Parabola_tpoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\Parabola_tpoas.AssemblyInfoInputs.cache
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\Parabola_tpoas.AssemblyInfo.cs
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\Parabola_tpoas.csproj.CoreCompileInputs.cache
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\Parabola_tpoas.dll
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\refint\Parabola_tpoas.dll
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\Parabola_tpoas.pdb
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\Parabola_tpoas.genruntimeconfig.cache
+C:\Users\acer_\Desktop\универ\актуальное\тестирование\Parabola_tpoas\Parabola_tpoas\obj\Debug\net8.0\ref\Parabola_tpoas.dll
